@@ -1,0 +1,13 @@
+# Estado da interface (muda o tempo todo, gera conflito)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Segredos de plugins (API key, chave privada)
+.obsidian/plugins/*/data.json
+
+# Lixeira do Obsidian
+.trash/
+
+# Sistema
+.DS_Store
+Thumbs.db
